@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.main{
+	width: 80%;
+	margin: 100px auto;
+	border: 5px solid #1E6DCC;
+	border-radius: 10px;
+	padding: 10px;
+}
